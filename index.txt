@@ -1,3 +1,9 @@
 hey, hello there
 
+<<<<<<< HEAD
+I am here as well
+=======
+I am here
+>>>>>>> 5131f45 (updated text file in feat)
+
 I am here as well
